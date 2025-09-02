@@ -39,6 +39,12 @@ Check **[`instructions.md`](Instructions.md)** for detailed step-by-step guidanc
 - Virtual environment recommended (`python3 -m venv .venv`).  
 - Dependencies are listed in `requirements.txt`.
 
+## Automotive Simulation & CAN Tools
+
+- ICSim (Instrument Cluster Simulator) - generates realistic CAN bus traffic.
+- UDSim - diagnostic attack simulation (UDS requests).
+- SocketCAN - Linux kernel framework for CAN communication (via vcand).
+- caringcaribou - open-source penetration-testing tool for CAN buses.
 
 ## Author
 Developed by **Rakesh Elamaran**  
