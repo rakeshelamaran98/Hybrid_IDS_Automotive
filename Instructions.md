@@ -55,14 +55,13 @@ replay/ → replayed valid frames
 
 stealth/ → low-frequency injection
 
-uds/ → diagnostic misuse
+uds/ → diagnostic misuse - Use UDSIM Tool
 
 normal/ → benign baseline
 
 Example:
 
 candump vcan0 > logs/dos/dos_YYYYMMDD_HHMMSS.log
-
 
 ## Step 2: Preprocess Logs → CSV
 
