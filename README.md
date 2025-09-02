@@ -17,7 +17,11 @@ Check **[`instructions.md`](instructions.md)** for detailed step-by-step guidanc
 ## Requirements
 - Python 3.9+  
 - Virtual environment recommended (`python3 -m venv .venv`).  
-- Dependencies are listed in `requirements.txt`.  
+- Dependencies are listed in `requirements.txt`.
+
+## Dataset Links
+
+Note: Due to large file sizes, datasets must be stored externally (Google Drive, Dropbox, etc.) and linked here
 
 ## Author
 Developed by **Rakesh Elamaran**  
