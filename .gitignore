@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# Logs
+*.log
+
+# Datasets (too large for GitHub)
+*.csv
+*.pkl
+*.png
+
+# System files
+.DS_Store
