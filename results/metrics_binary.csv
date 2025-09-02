@@ -1,0 +1,5 @@
+model,mode,accuracy,precision_weighted,recall_weighted,f1_weighted,cm_csv
+RandomForest,binary,0.98693,0.9807,0.98693,0.9807,RandomForest_binary_cm.csv
+ExtraTrees,binary,0.98679,0.97838,0.98679,0.98063,ExtraTrees_binary_cm.csv
+DecisionTree,binary,0.98676,0.97774,0.98676,0.98056,DecisionTree_binary_cm.csv
+LogisticRegression,binary,0.98691,0.97404,0.98691,0.98043,LogisticRegression_binary_cm.csv

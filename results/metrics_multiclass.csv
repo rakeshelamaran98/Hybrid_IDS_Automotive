@@ -1,0 +1,5 @@
+model,mode,accuracy,precision_weighted,recall_weighted,f1_weighted,cm_csv
+ExtraTrees,multiclass,0.81481,0.8118,0.81481,0.79608,ExtraTrees_multiclass_cm.csv
+RandomForest,multiclass,0.81544,0.81424,0.81544,0.79597,RandomForest_multiclass_cm.csv
+DecisionTree,multiclass,0.80228,0.80502,0.80228,0.78949,DecisionTree_multiclass_cm.csv
+LogisticRegression,multiclass,0.81083,0.77795,0.81083,0.77682,LogisticRegression_multiclass_cm.csv
