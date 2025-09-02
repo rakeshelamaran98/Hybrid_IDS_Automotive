@@ -9,14 +9,18 @@ This repository contains the implementation, datasets, and evaluation results fo
 
 ```
 project/
-├── logs/ # Raw CAN logs (DoS, fuzzing, spoofing, replay, stealth, uds, normal)
-├── preprocessed_csv/ # Processed CSV datasets
+├── logs/ # Raw CAN logs (DoS, fuzzing, spoofing, replay, stealth, uds, normal) (Kindly Check Google Drive Link)
+├── preprocessed_csv/ # Processed CSV datasets (Kindly Check Google Drive Link)
 ├── scripts/ # Python scripts for attacks, preprocessing, training, IDS
-├── results/ # Models, reports, confusion matrices, metrics, figures
+├── results/ # Models (Kindly Check Google Drive Link), reports, confusion matrices, metrics, figures
 ├── v2x/ # V2X spoofing & replay scripts and datasets
 ├── compare_ids.py # Binary vs Hybrid vs Rule comparison
 ├── parse.py # Log parsing utility
 ```
+
+## Google Drive Link
+
+https://drive.google.com/drive/folders/13YxvNKhaWvaBA7b2hwM8LXW-oH-_gOxk?usp=sharing
 
 ## Setup
 
@@ -35,7 +39,7 @@ pip install -r requirements.txt
 
 ```
 
-# Step-By-Step Instructions
+## Step-By-Step Instructions
 
 ## Step 1: Collect CAN Logs (Attack Simulation)
 
@@ -147,8 +151,6 @@ Datasets: v2x_normal.csv, v2x_attack_spoof.csv, v2x_attack_replay.csv
 All results (confusion matrices, metrics, figures) are available in results/.
 
 ## Reproducability
-
-Reproducibility
 
 Use provided logs (logs/) or generate new ones via ICSim.
 Preprocess → preprocessed_csv/
