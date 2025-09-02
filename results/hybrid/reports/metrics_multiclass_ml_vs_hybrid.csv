@@ -1,0 +1,3 @@
+kind,accuracy,precision_weighted,recall_weighted,f1_weighted
+ML,0.83087,0.87519,0.83087,0.82037
+Hybrid,0.82807,0.87477,0.82807,0.81957

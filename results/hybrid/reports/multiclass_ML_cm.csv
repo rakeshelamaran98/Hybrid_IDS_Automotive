@@ -1,0 +1,7 @@
+,Normal,Spoofing,DoS,Fuzzing,Stealth,UDS
+Normal,6,40,3,4,4,335
+Spoofing,0,209,7,21,11,1429
+DoS,1,67,22207,6,4,755
+Fuzzing,1,119,7,302,13,1117
+Stealth,0,71,1,14,39,845
+UDS,2,153,6,17,21,2163
