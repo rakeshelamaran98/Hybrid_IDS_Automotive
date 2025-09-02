@@ -30,7 +30,7 @@ Note: Due to large file sizes, datasets must be stored externally (Google Drive,
 
 ## How to Run
 To reproduce the experiments and results:  
-Check **[`instructions.md`](instructions.md)** for detailed step-by-step guidance.  
+Check **[`instructions.md`](Instructions.md)** for detailed step-by-step guidance.  
 
 ---
 
