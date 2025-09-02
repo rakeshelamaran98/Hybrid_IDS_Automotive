@@ -1,0 +1,3 @@
+attack,rules_TP,rules_FN,rules_FP,rules_TN
+spoof,0,100,1531,272
+replay,51,0,1537,266
